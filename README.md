@@ -1,7 +1,11 @@
 # 👋 Olá! Eu sou a Bruna
 
-🎯 Analista de Custos iniciante em Power BI, SQL e Python  
-📊 Crio relatórios visuais, automatizações e análises de dados  
+🎯 Analista de Custos em transição para a área de Back-End/Dados
+
+💻 Aprendendo Power BI, Python, SQL
+
+📊 Crio relatórios visuais, automatizações e análises de dados
+
 📌 Apaixonada por soluções que economizam tempo e melhoram decisões
 
 ---
