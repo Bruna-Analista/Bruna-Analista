@@ -1,30 +1,21 @@
 # 👋 Olá! Eu sou a Bruna
 
-🎯 Analista de Custos em transição para a área de Back-End/Dados
+🎯 Sou Analista de Custos e estou migrando para a área de Tecnologia, focando em Power BI, SQL e Python. 
 
-💻 Habilidades em Power BI, Python, SQL
+Apaixonada por soluções que economizam tempo e melhoram decisões.
 
-📊 Crio relatórios visuais, automatizações e análises de dados
+🚀 Minhas principais habilidades
 
-📌 Apaixonada por soluções que economizam tempo e melhoram decisões
+* Análise de dados e criação de dashboards interativos com Power BI
 
----
+* Modelagem e consultas em SQL Server
 
-## ✨ Projetos
+* Excel avançado para controle e manipulação de dados
 
-| Projeto | Descrição | Ferramentas |
-|--------|-----------|-------------|
-| **Controle de Hospedagens** | Dashboard por obra, funcionário, tipo e valor | Power BI, Excel |
-| **Controle Inteligente de Dados Duplicados** | Script de Detecção de Duplicidades | Excel, VBA |
-| **Relatório Controle de Prestação de Contas** | Prestação de Contas – Atrasos e Alertas | SQL, Power BI |
+
 
 ---
 
-## 🚀 Em aprendizado
-
-- SQL (joins, subqueries, CTEs)
-- Python para automações e dados
-- Engenharia de Dados (conceitos iniciais)
 
 ---
 
