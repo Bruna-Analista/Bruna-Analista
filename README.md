@@ -2,7 +2,7 @@
 
 🎯 Analista de Custos em transição para a área de Back-End/Dados
 
-💻 Aprendendo Power BI, Python, SQL
+💻 Habilidades em Power BI, Python, SQL
 
 📊 Crio relatórios visuais, automatizações e análises de dados
 
