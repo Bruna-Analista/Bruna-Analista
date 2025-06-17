@@ -2,7 +2,7 @@
 
 🎯 Sou Analista de Custos e estou migrando para a área de Tecnologia, focando em Power BI, SQL e Python. 
 
-Apaixonada por soluções que economizam tempo e melhoram decisões.
+Apaixonada por gerar soluções que preservem o maior ativo da atualidade,  o TEMPO, com foco na otimização da tomada de decisões e potencialização de resultados. 
 
 🚀 Minhas principais habilidades
 
